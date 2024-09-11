@@ -1,3 +1,7 @@
+// Full Name: Teimur Terchyyev
+// Student ID: 101412670
+// Group#: T177C
+
 // // Exercise 1
 function greeter(myArray, counter) {
     counter = 0;
